@@ -1,0 +1,29 @@
+body {
+  margin: 20px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.card {
+  display: flex;
+  width: 400px;
+  padding: 20px;
+  margin: 0px auto;
+  justify-content: space-around;
+  text-align: center;
+  color: #2b2839;
+  background: #9bf291;
+  border-bottom: 6px solid darkgreen;
+  border-radius: 10px;
+  box-shadow: 5px 5px 10px gray;
+}
+
+.profile-img {
+  width: 150px;
+  height: 150px;
+  margin: 15px;
+  filter: drop-shadow(3px 3px 2px);
+}
+
+.border-green {
+  border: 3px solid darkgreen;
+}
