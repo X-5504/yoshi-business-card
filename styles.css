@@ -23,7 +23,3 @@ body {
   margin: 15px;
   filter: drop-shadow(3px 3px 2px);
 }
-
-.border-green {
-  border: 3px solid darkgreen;
-}
